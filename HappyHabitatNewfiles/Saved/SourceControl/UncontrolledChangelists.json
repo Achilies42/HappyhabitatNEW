@@ -5,7 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Repositories/HappyhabitatNEW/HappyHabitatNewfiles/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"D:/Repositories/HappyhabitatNEW/HappyHabitatNewfiles/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Repositories/HappyhabitatNEW/HappyHabitatNewfiles/Content/BP_NPCNEW.uasset",
+				"D:/Repositories/HappyhabitatNEW/HappyHabitatNewfiles/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/C2/3OQC3VMUU1XKBS7XWLR29O.uasset",
+				"D:/Repositories/HappyhabitatNEW/HappyHabitatNewfiles/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/MA/T5M7OSKYAUH4GV2FQO2W71.uasset",
+				"D:/Repositories/HappyhabitatNEW/HappyHabitatNewfiles/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/HZ/X1NWWZRPTJQ0XS3F7RY65E.uasset",
+				"D:/Repositories/HappyhabitatNEW/HappyHabitatNewfiles/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/20/41X721N5ISGOKEIFKHHWBV.uasset",
+				"D:/Repositories/HappyhabitatNEW/HappyHabitatNewfiles/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/LB/9F98FYUYQ6GY9P3IGUVCPF.uasset",
+				"D:/Repositories/HappyhabitatNEW/HappyHabitatNewfiles/Content/BP_HouseSelector.uasset",
+				"D:/Repositories/HappyhabitatNEW/HappyHabitatNewfiles/Content/UIMenus/Images/background-template-with-triangles-green/04c7_4g16_191107.uasset",
+				"D:/Repositories/HappyhabitatNEW/HappyHabitatNewfiles/Content/UIMenus/Images/background-template-with-triangles-green/T_cuteGrass.uasset",
+				"D:/Repositories/HappyhabitatNEW/HappyHabitatNewfiles/Content/Objects/CHARACTERS_BEN/EXPORTS_TO_UNREAL/TEXTURES/Cat_Pink.uasset"
 			]
 		}
 	]
