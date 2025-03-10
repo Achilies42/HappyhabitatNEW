@@ -1593,3 +1593,828 @@ LogConfig: CVar [[D3D12.Bindless.ResourceDescriptorHeapSize:32768]] deferred - d
 [2025.03.10-15.37.45:181][611]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1731.207764
 [2025.03.10-15.37.46:197][614]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.03.10-15.37.46:198][614]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1731.872070, Update Interval: 301.829285
+[2025.03.10-15.39.27:472][368]LogStreaming: Display: FlushAsyncLoading(417): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.10-15.39.27:484][368]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UIMenus/WBP_Credits.WBP_Credits
+[2025.03.10-15.39.27:485][368]LogChaosDD: Creating Chaos Debug Draw Scene for world World_0
+[2025.03.10-15.39.27:497][368]LogChaosDD: Creating Chaos Debug Draw Scene for world World_1
+[2025.03.10-15.39.27:498][368]LogTexture: Display: Building textures: /Game/UIMenus/Images/IMG_Credits.IMG_Credits (BGRA8, 1366x768 x1x1x1) (Required Memory Estimate: 37.017578 MB), EncodeSpeed: Fast
+[2025.03.10-15.39.27:510][368]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2025.03.10-15.39.29:057][368]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UIMenus/WBP_Controls.WBP_Controls
+[2025.03.10-15.39.29:057][368]LogChaosDD: Creating Chaos Debug Draw Scene for world World_2
+[2025.03.10-15.39.29:065][368]LogChaosDD: Creating Chaos Debug Draw Scene for world World_3
+[2025.03.10-15.39.29:255][368]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UIMenus/WBP_ControlButton.WBP_ControlButton
+[2025.03.10-15.39.29:255][368]LogChaosDD: Creating Chaos Debug Draw Scene for world World_4
+[2025.03.10-15.39.29:267][368]LogChaosDD: Creating Chaos Debug Draw Scene for world World_5
+[2025.03.10-15.39.29:766][368]LogSlate: Took 0.002107 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.03.10-15.39.29:777][368]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2025.03.10-15.39.29:781][368]LogSlate: Took 0.002621 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.03.10-15.39.32:863][547]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-15.39.32:863][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-15.39.32:873][547]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-15.39.32:873][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-15.39.32:993][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.03.10-15.43.39:100][660]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2085.125244
+[2025.03.10-15.43.40:097][663]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-15.43.40:097][663]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2085.790039, Update Interval: 303.680542
+[2025.03.10-15.46.09:088][480]LogStreaming: Display: FlushAsyncLoading(608): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.10-15.46.09:091][480]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UIMenus/Images/IMG_Intro.IMG_Intro
+[2025.03.10-15.46.09:107][480]LogTexture: Display: Building textures: /Game/UIMenus/Images/IMG_Intro.IMG_Intro (BGRA8, 1366x768 x1x1x1) (Required Memory Estimate: 37.017578 MB), EncodeSpeed: Fast
+[2025.03.10-15.46.09:370][480]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.46.09:370][480]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.46.09:370][480]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.46.09:370][480]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.46.09:370][480]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.46.09:693][480]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.46.17:897][965]LogSlate: Window 'IMG_Intro' being destroyed
+[2025.03.10-15.46.20:134][ 92]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UIMenus/Images/IMG_LoseScreen.IMG_LoseScreen
+[2025.03.10-15.46.20:276][ 92]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.46.20:276][ 92]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.46.20:276][ 92]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.46.20:276][ 92]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.46.20:276][ 92]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.46.20:622][ 92]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.46.23:824][279]LogSlate: Window 'IMG_LoseScreen' being destroyed
+[2025.03.10-15.46.25:287][357]LogStreaming: Display: FlushAsyncLoading(609): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.10-15.46.25:312][357]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UIMenus/Images/IMG_MainMenu.IMG_MainMenu
+[2025.03.10-15.46.25:507][357]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.46.25:507][357]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.46.25:507][357]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.46.25:507][357]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.46.25:507][357]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.46.25:837][357]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.46.28:738][527]LogSlate: Window 'IMG_MainMenu' being destroyed
+[2025.03.10-15.46.29:945][593]LogStreaming: Display: FlushAsyncLoading(610): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.10-15.46.29:968][593]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UIMenus/Images/IMG_MenuForSizing.IMG_MenuForSizing
+[2025.03.10-15.46.29:973][593]LogTexture: Display: Building textures: /Game/UIMenus/Images/IMG_MenuForSizing.IMG_MenuForSizing (BGRA8, 1366x768 x1x1x1) (Required Memory Estimate: 37.017578 MB), EncodeSpeed: Fast
+[2025.03.10-15.46.30:131][593]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.46.30:131][593]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.46.30:131][593]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.46.30:131][593]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.46.30:131][593]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.46.30:437][593]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.46.37:215][991]LogSlate: Window 'IMG_MenuForSizing' being destroyed
+[2025.03.10-15.46.39:296][108]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UIMenus/Images/IMG_PauseMenu.IMG_PauseMenu
+[2025.03.10-15.46.39:362][108]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.46.39:362][108]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.46.39:362][108]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.46.39:362][108]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.46.39:362][108]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.46.39:572][108]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.46.59:987][325]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-15.46.59:987][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-15.46.59:999][325]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-15.46.59:999][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-15.47.00:129][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.03.10-15.47.38:158][563]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.10-15.47.38:314][563]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UIMenus/WBP_Credits] ([2] browsable assets)...
+[2025.03.10-15.47.38:322][563]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UIMenus/WBP_Credits.WBP_Credits]
+[2025.03.10-15.47.38:322][563]OBJ SavePackage: Finished generating thumbnails for package [/Game/UIMenus/WBP_Credits]
+[2025.03.10-15.47.38:322][563]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIMenus/WBP_Credits" FILE="Z:/OneDriveBen/OneDrive/Documents/GitHub/HappyhabitatNEW/HappyHabitatNewfiles/Content/UIMenus/WBP_Credits.uasset" SILENT=true
+[2025.03.10-15.47.38:343][563]LogSavePackage: Moving output files for package: /Game/UIMenus/WBP_Credits
+[2025.03.10-15.47.38:344][563]LogSavePackage: Moving 'Z:/OneDriveBen/OneDrive/Documents/GitHub/HappyhabitatNEW/HappyHabitatNewfiles/Saved/WBP_Credits27497FD74619CC91C2213198F5F5D862.tmp' to 'Z:/OneDriveBen/OneDrive/Documents/GitHub/HappyhabitatNEW/HappyHabitatNewfiles/Content/UIMenus/WBP_Credits.uasset'
+[2025.03.10-15.47.38:356][563]LogFileHelpers: InternalPromptForCheckoutAndSave took 198.216 ms
+[2025.03.10-15.47.38:459][563]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.10-15.47.38:459][563]LogContentValidation: Enabled validators:
+[2025.03.10-15.47.38:459][563]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.10-15.47.38:459][563]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.10-15.47.38:459][563]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.10-15.47.38:459][563]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.10-15.47.38:459][563]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.10-15.47.38:459][563]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.10-15.47.38:468][563]AssetCheck: /Game/UIMenus/WBP_Credits Validating asset
+[2025.03.10-15.48.47:252][812]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.03.10-15.48.49:497][901]LogStreaming: Display: FlushAsyncLoading(611): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.10-15.48.49:558][901]LogInterchangeEngine: [Pending] Importing
+[2025.03.10-15.48.49:558][901]LogInterchangeEngine: Display: Interchange start importing source [Z:/OneDriveBen/OneDrive/Everything before 8-1-2020/Pictures/Happy Habitat/IMG_1598.png]
+[2025.03.10-15.48.49:693][903]LogStreaming: Display: FlushAsyncLoading(620): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.10-15.48.49:764][905]LogTexture: Display: Building textures: /Game/StarterContent/Textures/IMG.IMG (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.03.10-15.48.50:070][909]LogInterchangeEngine: Display: Interchange import completed [Z:/OneDriveBen/OneDr...ctures/Happy Habitat/IMG_1598.png]
+[2025.03.10-15.48.50:106][909]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.03.10-15.48.50:106][909]LogInterchangeEngine: [Success] Import Done
+[2025.03.10-15.48.51:088][960]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.03.10-15.48.53:631][ 87]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.03.10-15.48.54:090][112]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.48.54:090][112]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.48.54:090][112]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.48.54:090][112]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.48.54:090][112]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.48.54:138][112]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.49.01:516][519]LogChaosDD: Creating Chaos Debug Draw Scene for world World_7
+[2025.03.10-15.49.18:573][506]Cmd: TRANSACTION UNDO
+[2025.03.10-15.49.18:573][506]LogEditorTransaction: Undo Move Elements
+[2025.03.10-15.49.19:120][511]Cmd: TRANSACTION UNDO
+[2025.03.10-15.49.19:120][511]LogEditorTransaction: Undo Move Elements
+[2025.03.10-15.49.22:684][707]Cmd: TRANSACTION UNDO
+[2025.03.10-15.49.22:684][707]LogEditorTransaction: Undo Move Elements
+[2025.03.10-15.49.31:218][158]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2437.244385
+[2025.03.10-15.49.31:300][163]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-15.49.31:300][164]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2437.310791, Update Interval: 340.264282
+[2025.03.10-15.49.37:121][469]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.10-15.49.43:994][860]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.10-15.49.54:288][436]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.10-15.49.59:703][725]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.10-15.50.01:091][796]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.10-15.50.01:107][796]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.10-15.50.01:107][796]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.03.10-15.50.01:119][796]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 11.796 ms
+[2025.03.10-15.50.01:126][796]LogPlayLevel: [PlayLevel] Compiling WBP_Credits before play...
+[2025.03.10-15.50.01:871][796]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2025.03.10-15.50.01:871][796]LogPlayLevel: PlayLevel: Blueprint regeneration took 747 ms (1 blueprints)
+[2025.03.10-15.50.01:881][796]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.03.10-15.50.01:882][796]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.03.10-15.50.01:883][796]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.03.10-15.50.01:897][796]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.50.01:900][796]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016661s)
+[2025.03.10-15.50.01:900][796]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.016744s)
+[2025.03.10-15.50.01:934][796]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2025.03.10-15.50.01:937][796]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.03.10-15.50.01:941][796]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.10-15.50.01:941][796]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.10-15.50.01:941][796]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.10-15.50.01:941][796]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.10-15.50.01:950][796]LogWorldPartition: Display: WorldPartition initialize took 9.143 ms (total: 473.124 ms)
+[2025.03.10-15.50.01:950][796]LogPlayLevel: PIE: World Init took: (0.014293s)
+[2025.03.10-15.50.01:953][796]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.03.10-15.50.01:953][796]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.10-15.50.01:953][796]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.10-15.50.01:953][796]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.10-15.50.01:953][796]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.10-15.50.01:953][796]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.10-15.50.01:953][796]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.10-15.50.01:953][796]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.10-15.50.01:953][796]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.10-15.50.01:953][796]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.10-15.50.01:953][796]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.10-15.50.01:953][796]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.10-15.50.01:956][796]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.10-15.50.02:021][796]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.10-15.50.02:024][796]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.10-15.50.02:024][796]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.10-15.50.02:024][796]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.10-15.50.02:028][796]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.03.10-15.50.02:030][796]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.03.10-15.50.02:032][796]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.03.10-15.50.02:032][796]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.03.10-15.50.02:032][796]LogInit: FAudioDevice initialized with ID 2.
+[2025.03.10-15.50.02:032][796]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonMap'.
+[2025.03.10-15.50.02:033][796]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.03.10-15.50.02:041][796]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.10-15.50.02:047][796]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.50.02:047][796]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.50.02:047][796]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.50.02:050][796]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.50.02:050][796]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.50.02:050][796]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.50.02:050][796]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.50.02:050][796]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.50.02:051][796]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2025.03.10-11.50.02
+[2025.03.10-15.50.02:056][796]LogWorld: Bringing up level for play took: 0.013920
+[2025.03.10-15.50.02:060][796]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2025.03.10-15.50.02:075][796]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2025.03.10-15.50.02:119][796]LogBlueprintUserMessages: [S_Cycle_Director_0] IsDay
+[2025.03.10-15.50.02:121][796]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.10-15.50.02:121][796]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.03.10-15.50.02:121][796]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.03.10-15.50.02:123][796]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.10-15.50.02:123][796]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2025.03.10-15.50.02:126][796]PIE: Server logged in
+[2025.03.10-15.50.02:126][796]PIE: Play in editor total start time 1.021 seconds.
+[2025.03.10-15.50.02:151][796]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.50.02:337][797]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.50.05:955][ 10]LogBlueprintUserMessages: [S_Cycle_Director_0] IsNight
+[2025.03.10-15.50.09:171][199]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.10-15.50.09:171][199]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.03.10-15.50.09:176][199]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-15.50.09:178][199]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-15.50.09:178][199]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.03.10-15.50.09:189][199]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.10-15.50.09:199][199]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-15.50.09:244][199]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.10-15.50.09:245][199]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.03.10-15.50.09:245][199]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.03.10-15.50.09:249][199]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.03.10-15.50.09:275][199]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2025.03.10-15.50.09:347][200]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2025.03.10-15.50.34:424][642]LogSlate: Took 0.000243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.03.10-15.50.34:520][645]LogChaosDD: Creating Chaos Debug Draw Scene for world World_8
+[2025.03.10-15.50.34:702][648]LogChaosDD: Creating Chaos Debug Draw Scene for world World_9
+[2025.03.10-15.50.34:780][649]LogChaosDD: Creating Chaos Debug Draw Scene for world World_10
+[2025.03.10-15.50.34:867][651]LogChaosDD: Creating Chaos Debug Draw Scene for world World_11
+[2025.03.10-15.50.42:285][  1]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyPlayerController.MyPlayerController
+[2025.03.10-15.50.42:294][  1]LogChaosDD: Creating Chaos Debug Draw Scene for world World_12
+[2025.03.10-15.50.42:387][  1]LogStreaming: Display: FlushAsyncLoading(621): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.10-15.50.42:391][  1]LogStaticMesh: Display: Building static mesh PhAT_FloorBox (Required Memory Estimate: 0.024887 MB)...
+[2025.03.10-15.50.42:404][  1]LogStaticMesh: Built static mesh [0.01s] /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox
+[2025.03.10-15.50.44:913][103]LogMeshUtilities: Finished distance field build in 2.5s - 126x126x21 sparse distance field, 0.6Mb total, 0.0Mb always loaded, 100% occupied, 4 triangles, PhAT_FloorBox
+[2025.03.10-15.51.00:359][ 22]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-15.51.00:359][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-15.51.00:462][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.03.10-15.51.04:599][264]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-15.51.04:599][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-15.51.04:610][264]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-15.51.04:610][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-15.51.04:684][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.03.10-15.51.16:223][901]LogChaosDD: Creating Chaos Debug Draw Scene for world World_13
+[2025.03.10-15.51.30:923][756]LogStreaming: Display: FlushAsyncLoading(623): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.10-15.51.31:085][757]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Sims_Assets/Mailbox/Mailbox.Mailbox
+[2025.03.10-15.51.31:085][757]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Sims_Assets/Mailbox/Mailbox.Mailbox
+[2025.03.10-15.51.31:087][757]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Sims_Assets/Mailbox/Mailbox.Mailbox as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_0
+[2025.03.10-15.51.33:240][878]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.03.10-15.51.33:242][878]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2025.03.10-15.51.33:247][878]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Sims_Assets/Mailbox/Mailbox.Mailbox
+[2025.03.10-15.51.33:247][878]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Sims_Assets/Mailbox/Mailbox.Mailbox
+[2025.03.10-15.51.33:253][878]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Sims_Assets/Mailbox/Mailbox.Mailbox as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_089798A514E0CB5302_1442768871
+[2025.03.10-15.51.52:137][985]Cmd: DUPLICATE
+[2025.03.10-15.51.52:137][985]Cmd: ACTOR DUPLICATE
+[2025.03.10-15.52.09:474][  2]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.03.10-15.52.11:554][120]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.03.10-15.52.28:243][106]Cmd: DUPLICATE
+[2025.03.10-15.52.28:243][106]Cmd: ACTOR DUPLICATE
+[2025.03.10-15.52.57:648][842]Cmd: DUPLICATE
+[2025.03.10-15.52.57:648][842]Cmd: ACTOR DUPLICATE
+[2025.03.10-15.53.06:506][363]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.03.10-15.53.20:700][200]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.03.10-15.53.27:112][577]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.10-15.53.27:172][577]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/0Z/5RQIHCZ9W3UXRGL4LTLQAK
+[2025.03.10-15.53.27:172][577]LogSavePackage: Moving 'Z:/OneDriveBen/OneDrive/Documents/GitHub/HappyhabitatNEW/HappyHabitatNewfiles/Saved/5RQIHCZ9W3UXRGL4LTLQAK201ECF0049D80D91239743BB8CAFAF99.tmp' to 'Z:/OneDriveBen/OneDrive/Documents/GitHub/HappyhabitatNEW/HappyHabitatNewfiles/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/0Z/5RQIHCZ9W3UXRGL4LTLQAK.uasset'
+[2025.03.10-15.53.27:177][577]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/C2/3OQC3VMUU1XKBS7XWLR29O
+[2025.03.10-15.53.27:178][577]LogSavePackage: Moving 'Z:/OneDriveBen/OneDrive/Documents/GitHub/HappyhabitatNEW/HappyHabitatNewfiles/Saved/3OQC3VMUU1XKBS7XWLR29O8042C89C4717B54DCC0C4FBE7E39A9E2.tmp' to 'Z:/OneDriveBen/OneDrive/Documents/GitHub/HappyhabitatNEW/HappyHabitatNewfiles/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/C2/3OQC3VMUU1XKBS7XWLR29O.uasset'
+[2025.03.10-15.53.27:184][577]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/2U/PUR8IB2KOVEJNG8C9BKX44
+[2025.03.10-15.53.27:184][577]LogSavePackage: Moving 'Z:/OneDriveBen/OneDrive/Documents/GitHub/HappyhabitatNEW/HappyHabitatNewfiles/Saved/PUR8IB2KOVEJNG8C9BKX4466C015BB4E4C9276110819A9A5C23D9F.tmp' to 'Z:/OneDriveBen/OneDrive/Documents/GitHub/HappyhabitatNEW/HappyHabitatNewfiles/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/2U/PUR8IB2KOVEJNG8C9BKX44.uasset'
+[2025.03.10-15.53.27:189][577]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/OA/IMXOE5IWTCE7OIFYAN5FEY
+[2025.03.10-15.53.27:189][577]LogSavePackage: Moving 'Z:/OneDriveBen/OneDrive/Documents/GitHub/HappyhabitatNEW/HappyHabitatNewfiles/Saved/IMXOE5IWTCE7OIFYAN5FEYD34EED09476F4D86BB0FA69645C10912.tmp' to 'Z:/OneDriveBen/OneDrive/Documents/GitHub/HappyhabitatNEW/HappyHabitatNewfiles/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/OA/IMXOE5IWTCE7OIFYAN5FEY.uasset'
+[2025.03.10-15.53.27:223][577]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/N9/VSKLGSSOY2UAVH27ZUOZ2H
+[2025.03.10-15.53.27:223][577]LogSavePackage: Moving 'Z:/OneDriveBen/OneDrive/Documents/GitHub/HappyhabitatNEW/HappyHabitatNewfiles/Saved/VSKLGSSOY2UAVH27ZUOZ2H86334FF5481274842EBD999585E38326.tmp' to 'Z:/OneDriveBen/OneDrive/Documents/GitHub/HappyhabitatNEW/HappyHabitatNewfiles/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/N9/VSKLGSSOY2UAVH27ZUOZ2H.uasset'
+[2025.03.10-15.53.27:239][577]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/22/QPGQJ4RQLSUQCXVVQ939OT
+[2025.03.10-15.53.27:239][577]LogSavePackage: Moving 'Z:/OneDriveBen/OneDrive/Documents/GitHub/HappyhabitatNEW/HappyHabitatNewfiles/Saved/QPGQJ4RQLSUQCXVVQ939OTDCF4CBBB4827F6DC9972E3AE81C56829.tmp' to 'Z:/OneDriveBen/OneDrive/Documents/GitHub/HappyhabitatNEW/HappyHabitatNewfiles/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/22/QPGQJ4RQLSUQCXVVQ939OT.uasset'
+[2025.03.10-15.53.27:283][577]LogFileHelpers: InternalPromptForCheckoutAndSave took 171.026 ms (total: 369.242 ms)
+[2025.03.10-15.53.27:367][577]LogContentValidation: Display: Starting to validate 6 assets
+[2025.03.10-15.53.27:368][577]LogContentValidation: Enabled validators:
+[2025.03.10-15.53.27:368][577]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.10-15.53.27:368][577]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.10-15.53.27:368][577]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.10-15.53.27:368][577]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.10-15.53.27:368][577]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.10-15.53.27:368][577]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.10-15.53.27:368][577]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.03.10-15.53.32:594][883]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.03.10-15.53.37:822][191]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.10-15.53.37:901][191]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/22/QPGQJ4RQLSUQCXVVQ939OT
+[2025.03.10-15.53.37:902][191]LogSavePackage: Moving 'Z:/OneDriveBen/OneDrive/Documents/GitHub/HappyhabitatNEW/HappyHabitatNewfiles/Saved/QPGQJ4RQLSUQCXVVQ939OT21DACC5944BA5265F8D2F591CA738A84.tmp' to 'Z:/OneDriveBen/OneDrive/Documents/GitHub/HappyhabitatNEW/HappyHabitatNewfiles/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/22/QPGQJ4RQLSUQCXVVQ939OT.uasset'
+[2025.03.10-15.53.37:912][191]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.999 ms (total: 459.242 ms)
+[2025.03.10-15.53.37:976][191]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.10-15.53.37:976][191]LogContentValidation: Enabled validators:
+[2025.03.10-15.53.37:976][191]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.10-15.53.37:976][191]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.10-15.53.37:976][191]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.10-15.53.37:976][191]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.10-15.53.37:976][191]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.10-15.53.37:976][191]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.10-15.53.37:976][191]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.03.10-15.53.47:402][747]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.03.10-15.53.55:320][212]Cmd: TRANSACTION UNDO
+[2025.03.10-15.53.55:320][212]LogEditorTransaction: Undo Scale Elements
+[2025.03.10-15.54.27:560][ 73]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.03.10-15.54.47:360][220]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.03.10-15.54.47:360][220]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.03.10-15.54.48:884][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.03.10-15.54.48:889][300]LogEditorActor: Deleted 0 Actors (0.037 secs)
+[2025.03.10-15.54.48:894][300]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.03.10-15.54.48:894][300]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.03.10-15.55.25:523][460]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.10-15.55.28:273][623]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.10-15.55.28:349][623]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/MA/T5M7OSKYAUH4GV2FQO2W71
+[2025.03.10-15.55.28:350][623]LogSavePackage: Moving 'Z:/OneDriveBen/OneDrive/Documents/GitHub/HappyhabitatNEW/HappyHabitatNewfiles/Saved/T5M7OSKYAUH4GV2FQO2W719F62972C4BE9920E04809F99FA9D8FC4.tmp' to 'Z:/OneDriveBen/OneDrive/Documents/GitHub/HappyhabitatNEW/HappyHabitatNewfiles/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/MA/T5M7OSKYAUH4GV2FQO2W71.uasset'
+[2025.03.10-15.55.28:354][623]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/LB/9F98FYUYQ6GY9P3IGUVCPF
+[2025.03.10-15.55.28:355][623]LogSavePackage: Moving 'Z:/OneDriveBen/OneDrive/Documents/GitHub/HappyhabitatNEW/HappyHabitatNewfiles/Saved/9F98FYUYQ6GY9P3IGUVCPF14FFEF274F01B844316C9385553B4A99.tmp' to 'Z:/OneDriveBen/OneDrive/Documents/GitHub/HappyhabitatNEW/HappyHabitatNewfiles/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/LB/9F98FYUYQ6GY9P3IGUVCPF.uasset'
+[2025.03.10-15.55.28:360][623]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/HZ/X1NWWZRPTJQ0XS3F7RY65E
+[2025.03.10-15.55.28:361][623]LogSavePackage: Moving 'Z:/OneDriveBen/OneDrive/Documents/GitHub/HappyhabitatNEW/HappyHabitatNewfiles/Saved/X1NWWZRPTJQ0XS3F7RY65EE7B897844539EF3419BFFA81F794EA93.tmp' to 'Z:/OneDriveBen/OneDrive/Documents/GitHub/HappyhabitatNEW/HappyHabitatNewfiles/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/HZ/X1NWWZRPTJQ0XS3F7RY65E.uasset'
+[2025.03.10-15.55.28:366][623]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/20/41X721N5ISGOKEIFKHHWBV
+[2025.03.10-15.55.28:366][623]LogSavePackage: Moving 'Z:/OneDriveBen/OneDrive/Documents/GitHub/HappyhabitatNEW/HappyHabitatNewfiles/Saved/41X721N5ISGOKEIFKHHWBVB5C87E3B4ED41DE6112D4B9C139B6572.tmp' to 'Z:/OneDriveBen/OneDrive/Documents/GitHub/HappyhabitatNEW/HappyHabitatNewfiles/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/20/41X721N5ISGOKEIFKHHWBV.uasset'
+[2025.03.10-15.55.28:372][623]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/6D/10DBTTM9KJEVG1QUS5SKO2
+[2025.03.10-15.55.28:372][623]LogSavePackage: Moving 'Z:/OneDriveBen/OneDrive/Documents/GitHub/HappyhabitatNEW/HappyHabitatNewfiles/Saved/10DBTTM9KJEVG1QUS5SKO2402B83F14F5DCC7DC53B00B292803C7C.tmp' to 'Z:/OneDriveBen/OneDrive/Documents/GitHub/HappyhabitatNEW/HappyHabitatNewfiles/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/6D/10DBTTM9KJEVG1QUS5SKO2.uasset'
+[2025.03.10-15.55.28:385][623]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.057 ms (total: 571.299 ms)
+[2025.03.10-15.55.28:472][623]LogContentValidation: Display: Starting to validate 5 assets
+[2025.03.10-15.55.28:472][623]LogContentValidation: Enabled validators:
+[2025.03.10-15.55.28:472][623]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.10-15.55.28:472][623]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.10-15.55.28:472][623]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.10-15.55.28:472][623]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.10-15.55.28:472][623]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.10-15.55.28:472][623]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.10-15.55.28:472][623]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.03.10-15.55.29:323][673]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.10-15.55.29:356][673]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.10-15.55.29:356][673]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.03.10-15.55.29:366][673]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 9.650 ms (total: 21.447 ms)
+[2025.03.10-15.55.29:366][673]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.10-15.55.29:390][673]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.03.10-15.55.29:409][673]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.55.29:413][673]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023184s)
+[2025.03.10-15.55.29:413][673]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.023279s)
+[2025.03.10-15.55.29:441][673]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2025.03.10-15.55.29:443][673]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.03.10-15.55.29:444][673]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.10-15.55.29:444][673]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.10-15.55.29:444][673]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.10-15.55.29:444][673]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.10-15.55.29:448][673]LogWorldPartition: Display: WorldPartition initialize took 3.492 ms (total: 476.616 ms)
+[2025.03.10-15.55.29:448][673]LogPlayLevel: PIE: World Init took: (0.005456s)
+[2025.03.10-15.55.29:450][673]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.03.10-15.55.29:450][673]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.10-15.55.29:450][673]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.10-15.55.29:450][673]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.10-15.55.29:450][673]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.10-15.55.29:450][673]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.10-15.55.29:450][673]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.10-15.55.29:450][673]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.10-15.55.29:450][673]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.10-15.55.29:450][673]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.10-15.55.29:450][673]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.10-15.55.29:450][673]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.10-15.55.29:453][673]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.10-15.55.29:498][673]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.10-15.55.29:499][673]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.10-15.55.29:499][673]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.10-15.55.29:499][673]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.10-15.55.29:500][673]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.03.10-15.55.29:500][673]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.03.10-15.55.29:502][673]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.03.10-15.55.29:502][673]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.03.10-15.55.29:502][673]LogInit: FAudioDevice initialized with ID 3.
+[2025.03.10-15.55.29:502][673]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonMap'.
+[2025.03.10-15.55.29:502][673]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.03.10-15.55.29:505][673]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.10-15.55.29:508][673]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.55.29:508][673]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.55.29:508][673]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.55.29:509][673]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.55.29:509][673]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.55.29:509][673]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.55.29:509][673]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.55.29:509][673]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.55.29:509][673]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2025.03.10-11.55.29
+[2025.03.10-15.55.29:509][673]LogWorld: Bringing up level for play took: 0.004311
+[2025.03.10-15.55.29:512][673]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2025.03.10-15.55.29:513][673]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2025.03.10-15.55.29:515][673]LogBlueprintUserMessages: [S_Cycle_Director_0] IsDay
+[2025.03.10-15.55.29:517][673]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.10-15.55.29:517][673]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.03.10-15.55.29:517][673]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.03.10-15.55.29:517][673]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.10-15.55.29:517][673]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2025.03.10-15.55.29:518][673]PIE: Server logged in
+[2025.03.10-15.55.29:518][673]PIE: Play in editor total start time 0.162 seconds.
+[2025.03.10-15.55.29:521][673]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.55.29:522][673]LogStaticMesh: Warning: Invalid material [M_BaseColorPalette] used on Nanite static mesh [Rug]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.03.10-15.55.33:475][907]LogBlueprintUserMessages: [S_Cycle_Director_0] IsNight
+[2025.03.10-15.55.37:817][166]LogBlueprintUserMessages: [S_Cycle_Director_0] IsDay
+[2025.03.10-15.55.41:309][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.10-15.55.41:312][374]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.41:312][374]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.41:312][374]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_2
+	FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+	Function /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap:02FC
+[2025.03.10-15.55.41:313][374]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.41:327][375]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.41:327][375]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.41:327][375]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_2
+	FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+	Function /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap:02FC
+[2025.03.10-15.55.41:327][375]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.41:344][376]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.41:344][376]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.41:344][376]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_2
+	FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+	Function /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap:02FC
+[2025.03.10-15.55.41:344][376]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.41:360][377]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.41:360][377]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.41:360][377]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_2
+	FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+	Function /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap:02FC
+[2025.03.10-15.55.41:360][377]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.41:378][378]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.41:378][378]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.41:378][378]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_2
+	FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+	Function /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap:02FC
+[2025.03.10-15.55.41:378][378]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.41:393][379]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.41:394][379]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.41:394][379]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_2
+	FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+	Function /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap:02FC
+[2025.03.10-15.55.41:394][379]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.41:411][380]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.41:411][380]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.41:411][380]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_2
+	FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+	Function /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap:02FC
+[2025.03.10-15.55.41:411][380]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.41:427][381]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.41:427][381]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.41:427][381]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_2
+	FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+	Function /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap:02FC
+[2025.03.10-15.55.41:427][381]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.41:443][382]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.41:443][382]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.41:443][382]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_2
+	FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+	Function /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap:02FC
+[2025.03.10-15.55.41:443][382]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.41:460][383]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.41:460][383]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.41:460][383]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_2
+	FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+	Function /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap:02FC
+[2025.03.10-15.55.41:460][383]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.41:477][384]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.41:477][384]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.41:477][384]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_2
+	FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+	Function /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap:02FC
+[2025.03.10-15.55.41:477][384]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.41:494][385]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.41:494][385]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.41:494][385]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_2
+	FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+	Function /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap:02FC
+[2025.03.10-15.55.41:494][385]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.41:510][386]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.41:510][386]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.41:510][386]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_2
+	FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+	Function /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap:02FC
+[2025.03.10-15.55.41:511][386]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.41:529][387]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.41:529][387]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.41:529][387]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_2
+	FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+	Function /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap:02FC
+[2025.03.10-15.55.41:529][387]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.41:545][388]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.41:545][388]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.41:545][388]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_2
+	FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+	Function /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap:02FC
+[2025.03.10-15.55.41:545][388]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.41:561][389]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.41:561][389]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.41:561][389]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_2
+	FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+	Function /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap:02FC
+[2025.03.10-15.55.41:561][389]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.41:577][390]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.41:577][390]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.41:577][390]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.41:594][391]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.41:594][391]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.41:594][391]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.41:611][392]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.41:611][392]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.41:611][392]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.41:626][393]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.41:628][393]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.41:628][393]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.41:644][394]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.41:644][394]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.41:644][394]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.41:661][395]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.41:661][395]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.41:661][395]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.41:678][396]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.41:678][396]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.41:678][396]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.41:694][397]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.41:694][397]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.41:694][397]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.41:711][398]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.41:711][398]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.41:711][398]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.41:727][399]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.41:727][399]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.41:727][399]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.41:746][400]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.41:746][400]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.41:746][400]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.41:769][401]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.41:769][401]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.41:769][401]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.41:783][402]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.41:783][402]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.41:783][402]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.41:800][403]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.41:800][403]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.41:800][403]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.41:817][404]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.41:817][404]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.41:817][404]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.41:833][405]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.41:833][405]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.41:833][405]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.41:852][406]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.41:852][406]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.41:852][406]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.41:867][407]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.41:867][407]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.41:867][407]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.41:884][408]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.41:884][408]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.41:884][408]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.41:900][409]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.41:900][409]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.41:900][409]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.41:916][410]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.41:916][410]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.41:916][410]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.41:935][411]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.41:935][411]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.41:936][411]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.41:955][412]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.41:956][412]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.41:956][412]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.41:971][413]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.41:971][413]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.41:972][413]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.41:988][414]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.41:988][414]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.41:988][414]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:004][415]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:004][415]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:004][415]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:020][416]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:020][416]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:020][416]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:037][417]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:037][417]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:037][417]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:054][418]LogBlueprintUserMessages: [S_Cycle_Director_0] IsDay
+[2025.03.10-15.55.42:054][418]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:054][418]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:054][418]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:070][419]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:070][419]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:070][419]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:088][420]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:088][420]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:088][420]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:105][421]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:105][421]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:105][421]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:122][422]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:122][422]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:122][422]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:137][423]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:137][423]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:137][423]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:154][424]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:154][424]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:154][424]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:171][425]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:171][425]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:171][425]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:187][426]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:187][426]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:187][426]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:204][427]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:204][427]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:204][427]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:221][428]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:221][428]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:221][428]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:238][429]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:238][429]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:238][429]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:254][430]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:254][430]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:254][430]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:271][431]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:271][431]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:271][431]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:288][432]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:288][432]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:288][432]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:305][433]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:305][433]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:305][433]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:321][434]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:321][434]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:321][434]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:338][435]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:338][435]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:338][435]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:356][436]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:356][436]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:356][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:372][437]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:372][437]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:372][437]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:387][438]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:387][438]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:388][438]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:404][439]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:404][439]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:404][439]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:421][440]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:421][440]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:421][440]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:438][441]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:438][441]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:438][441]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:453][442]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:453][442]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:453][442]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:471][443]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:471][443]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:471][443]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:489][444]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:489][444]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:489][444]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:505][445]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:505][445]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:505][445]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:521][446]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:521][446]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:522][446]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:538][447]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:538][447]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:538][447]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:554][448]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:554][448]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:554][448]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:571][449]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:571][449]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:571][449]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:587][450]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:587][450]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:587][450]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:604][451]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:604][451]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:604][451]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:621][452]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:621][452]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:621][452]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:638][453]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:638][453]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:638][453]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:654][454]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:654][454]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:654][454]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:671][455]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:671][455]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:671][455]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:687][456]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:687][456]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:687][456]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:704][457]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:704][457]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:704][457]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:721][458]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:721][458]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:721][458]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:740][459]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:740][459]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:740][459]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:757][460]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:757][460]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:757][460]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:773][461]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:773][461]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:773][461]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:791][462]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:791][462]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:791][462]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:807][463]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:807][463]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:807][463]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:823][464]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:823][464]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:825][464]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:841][465]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:841][465]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:841][465]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:857][466]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:857][466]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:857][466]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:874][467]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:874][467]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:874][467]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:891][468]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:891][468]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:891][468]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:907][469]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:907][469]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:907][469]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:924][470]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:925][470]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:925][470]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:941][471]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:941][471]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:941][471]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:957][472]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:957][472]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:957][472]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:974][473]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:974][473]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:974][473]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.42:991][474]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.42:991][474]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.42:991][474]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.43:008][475]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.43:008][475]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.43:008][475]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.43:024][476]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.43:025][476]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.43:025][476]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.43:041][477]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.43:041][477]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.43:041][477]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.43:057][478]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.43:057][478]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.43:057][478]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.43:074][479]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.43:074][479]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.43:074][479]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.43:091][480]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.43:091][480]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.43:091][480]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.43:108][481]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.43:108][481]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.43:108][481]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.43:125][482]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.43:125][482]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.43:125][482]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.43:141][483]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.43:141][483]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.43:141][483]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.43:158][484]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.43:158][484]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.43:158][484]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.43:174][485]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.43:174][485]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.43:174][485]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.43:191][486]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.43:191][486]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.43:191][486]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.43:208][487]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.43:208][487]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.43:208][487]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.43:224][488]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.43:224][488]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.43:224][488]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.43:241][489]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.43:241][489]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.43:242][489]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.43:257][490]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.43:257][490]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.43:257][490]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.43:274][491]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.43:274][491]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.43:274][491]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.43:291][492]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.43:291][492]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.43:291][492]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.43:307][493]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.43:307][493]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.43:307][493]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.43:324][494]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.43:324][494]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.43:324][494]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.43:341][495]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.43:341][495]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.43:341][495]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.43:408][499]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C:ExecuteUbergraph_FirstPersonMap'!
+[2025.03.10-15.55.43:408][499]LogScript: Warning: Script Msg called by: FirstPersonMap_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_3
+[2025.03.10-15.55.43:408][499]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph First Person Map Blueprint:  FirstPersonMap
+[2025.03.10-15.55.43:460][499]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.10-15.55.43:460][499]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.03.10-15.55.43:460][499]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-15.55.43:461][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-15.55.43:461][499]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.03.10-15.55.43:465][499]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.10-15.55.43:472][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-15.55.43:498][499]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.10-15.55.43:499][499]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.03.10-15.55.43:499][499]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.03.10-15.55.43:501][499]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.03.10-15.55.43:508][499]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2025.03.10-15.55.43:720][500]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2025.03.10-15.55.51:392][948]LogSlate: Window 'Message Log' being destroyed
+[2025.03.10-15.55.51:399][948]LogSlate: Window 'Message Log' being destroyed
+[2025.03.10-15.55.54:860][153]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2820.885010
+[2025.03.10-15.55.54:944][158]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-15.55.54:944][159]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2820.951660, Update Interval: 320.680573
+[2025.03.10-15.56.38:740][712]Cmd: TRANSACTION UNDO
+[2025.03.10-15.56.38:740][712]LogEditorTransaction: Undo Move Elements
+[2025.03.10-15.56.39:194][717]Cmd: TRANSACTION UNDO
+[2025.03.10-15.56.39:194][717]LogEditorTransaction: Undo Move Elements
+[2025.03.10-15.56.39:667][740]Cmd: TRANSACTION UNDO
+[2025.03.10-15.56.39:667][740]LogEditorTransaction: Undo Move Elements
+[2025.03.10-15.56.40:521][791]Cmd: TRANSACTION UNDO
+[2025.03.10-15.56.40:521][791]LogEditorTransaction: Undo Clicking on Elements
+[2025.03.10-15.56.41:431][840]Cmd: TRANSACTION UNDO
+[2025.03.10-15.56.41:431][840]LogEditorTransaction: Undo Clicking on Elements
+[2025.03.10-15.56.44:873][ 38]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.03.10-15.56.48:412][240]LogStreaming: Display: FlushAsyncLoading(624): 1 QueuedPackages, 0 AsyncPackages
