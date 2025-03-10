@@ -18,7 +18,20 @@
 				"D:/Repositories/HappyhabitatNEW/HappyHabitatNewfiles/Content/Objects/CHARACTERS_BEN/EXPORTS_TO_UNREAL/TEXTURES/Cat_Pink.uasset",
 				"D:/Repositories/HappyhabitatNEW/HappyHabitatNewfiles/Content/UIMenus/WBP_Lives.uasset",
 				"D:/Repositories/HappyhabitatNEW/HappyHabitatNewfiles/Content/ABP_DialogueManager.uasset",
-				"D:/Repositories/HappyhabitatNEW/HappyHabitatNewfiles/Content/WBP_NPCDialogue.uasset"
+				"D:/Repositories/HappyhabitatNEW/HappyHabitatNewfiles/Content/WBP_NPCDialogue.uasset",
+				"D:/Repositories/HappyhabitatNEW/HappyHabitatNewfiles/Content/MyPlayerController.uasset",
+				"D:/Repositories/HappyhabitatNEW/HappyHabitatNewfiles/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"D:/Repositories/HappyhabitatNEW/HappyHabitatNewfiles/Content/UIMenus/WBP_Pause.uasset",
+				"D:/Repositories/HappyhabitatNEW/HappyHabitatNewfiles/Content/UIMenus/Images/IMG_PauseMenu.uasset",
+				"D:/Repositories/HappyhabitatNEW/HappyHabitatNewfiles/Content/WBP_DialogueNEW.uasset",
+				"D:/Repositories/HappyhabitatNEW/HappyHabitatNewfiles/Content/UIMenus/WBP_lose.uasset",
+				"D:/Repositories/HappyhabitatNEW/HappyHabitatNewfiles/Content/UIMenus/Images/IMG_LoseScreen.uasset",
+				"D:/Repositories/HappyhabitatNEW/HappyHabitatNewfiles/Content/Objects/House/BP_House.uasset",
+				"D:/Repositories/HappyhabitatNEW/HappyHabitatNewfiles/Content/UIMenus/Images/IMG_Exit.uasset",
+				"D:/Repositories/HappyhabitatNEW/HappyHabitatNewfiles/Content/UIMenus/Images/IMG_Credits.uasset",
+				"D:/Repositories/HappyhabitatNEW/HappyHabitatNewfiles/Content/WBP_Credits.uasset",
+				"D:/Repositories/HappyhabitatNEW/HappyHabitatNewfiles/Content/UIMenus/Images/IMG_CreditsButton.uasset",
+				"D:/Repositories/HappyhabitatNEW/HappyHabitatNewfiles/Content/UIMenus/WBP_MainMenu.uasset"
 			]
 		}
 	]
