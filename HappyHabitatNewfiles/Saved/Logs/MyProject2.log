@@ -2418,3 +2418,191 @@ LogConfig: CVar [[D3D12.Bindless.ResourceDescriptorHeapSize:32768]] deferred - d
 [2025.03.10-15.56.41:431][840]LogEditorTransaction: Undo Clicking on Elements
 [2025.03.10-15.56.44:873][ 38]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
 [2025.03.10-15.56.48:412][240]LogStreaming: Display: FlushAsyncLoading(624): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.10-15.57.20:559][813]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2025.03.10-15.57.20:562][813]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.031
+[2025.03.10-15.57.20:563][813]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/IMG] ([1] browsable assets)...
+[2025.03.10-15.57.20:574][813]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/StarterContent/Textures/IMG.IMG]
+[2025.03.10-15.57.20:574][813]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/IMG]
+[2025.03.10-15.57.20:591][813]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Textures/IMG_Auto1
+[2025.03.10-15.57.20:591][813]LogSavePackage: Moving 'Z:/OneDriveBen/OneDrive/Documents/GitHub/HappyhabitatNEW/HappyHabitatNewfiles/Saved/IMG_Auto1258A02CF492B264C18C6D0AE04E4D1CA.tmp' to 'Z:/OneDriveBen/OneDrive/Documents/GitHub/HappyhabitatNEW/HappyHabitatNewfiles/Saved/Autosaves/Game/StarterContent/Textures/IMG_Auto1.uasset'
+[2025.03.10-15.57.20:592][813]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/IMG_Mat] ([1] browsable assets)...
+[2025.03.10-15.57.20:636][813]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/IMG_Mat.IMG_Mat]
+[2025.03.10-15.57.20:636][813]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/IMG_Mat]
+[2025.03.10-15.57.20:646][813]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Textures/IMG_Mat_Auto1
+[2025.03.10-15.57.20:646][813]LogSavePackage: Moving 'Z:/OneDriveBen/OneDrive/Documents/GitHub/HappyhabitatNEW/HappyHabitatNewfiles/Saved/IMG_Mat_Auto108466D894021471A71154A9D17F1FFC6.tmp' to 'Z:/OneDriveBen/OneDrive/Documents/GitHub/HappyhabitatNEW/HappyHabitatNewfiles/Saved/Autosaves/Game/StarterContent/Textures/IMG_Mat_Auto1.uasset'
+[2025.03.10-15.57.20:649][813]LogFileHelpers: Auto-saving content packages took 0.087
+[2025.03.10-16.02.10:498][683]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3196.528809
+[2025.03.10-16.02.11:490][686]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-16.02.11:490][686]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3197.187256, Update Interval: 324.648590
+[2025.03.10-16.08.21:105][794]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3567.135986
+[2025.03.10-16.08.22:106][797]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-16.08.22:106][797]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3567.803467, Update Interval: 301.653503
+[2025.03.10-16.10.45:531][228]LogDerivedDataCache: C:/Users/madsh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.03.10-16.14.06:503][830]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3912.531250
+[2025.03.10-16.14.07:504][833]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-16.14.07:505][833]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3913.187500, Update Interval: 347.564941
+[2025.03.10-16.20.26:231][969]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4292.259277
+[2025.03.10-16.20.27:233][972]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-16.20.27:233][972]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4292.932129, Update Interval: 347.090668
+[2025.03.10-16.27.11:332][184]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4697.352539
+[2025.03.10-16.27.12:333][187]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-16.27.12:333][187]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4698.019043, Update Interval: 314.740448
+[2025.03.10-16.27.35:862][253]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.03.10-16.57.11:718][254]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.03.10-16.57.11:718][254]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=1880
+[2025.03.10-16.57.11:728][254]LogHttp: Warning: 000004949B281C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.03.10-16.57.11:728][254]LogHttp: Warning: 000004949B281C00: libcurl info message cache 0 (Too old connection (1816 seconds idle), disconnect it)
+[2025.03.10-16.57.11:728][254]LogHttp: Warning: 000004949B281C00: libcurl info message cache 1 (Connection 1 seems to be dead)
+[2025.03.10-16.57.11:728][254]LogHttp: Warning: 000004949B281C00: libcurl info message cache 2 (Closing connection)
+[2025.03.10-16.57.11:728][254]LogHttp: Warning: 000004949B281C00: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.03.10-16.57.11:728][254]LogHttp: Warning: 000004949B281C00: libcurl info message cache 4 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.03.10-16.57.11:728][254]LogHttp: Warning: 000004949B281C00: libcurl info message cache 5 (Closing connection)
+[2025.03.10-16.57.11:729][254]LogEOSSDK: Warning: LogHttp: 00000494B0663C00: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B8BA77B78-41D7-0E81-0614-49ACA2E6CAB9%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.03.10-16.57.11:729][254]LogEOSSDK: Warning: LogHttp: 00000494B0663C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.03.10-16.57.11:729][254]LogEOSSDK: Warning: LogHttp: 00000494B0663C00: libcurl info message cache 0 (Too old connection (1799 seconds idle), disconnect it)
+[2025.03.10-16.57.11:729][254]LogEOSSDK: Warning: LogHttp: 00000494B0663C00: libcurl info message cache 1 (Connection 17 seems to be dead)
+[2025.03.10-16.57.11:729][254]LogEOSSDK: Warning: LogHttp: 00000494B0663C00: libcurl info message cache 2 (Closing connection)
+[2025.03.10-16.57.11:729][254]LogEOSSDK: Warning: LogHttp: 00000494B0663C00: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.03.10-16.57.11:729][254]LogEOSSDK: Warning: LogHttp: 00000494B0663C00: libcurl info message cache 4 (Hostname in DNS cache was stale, zapped)
+[2025.03.10-16.57.11:729][254]LogEOSSDK: Warning: LogHttp: 00000494B0663C00: libcurl info message cache 5 (Could not resolve host: api.epicgames.dev)
+[2025.03.10-16.57.11:729][254]LogEOSSDK: Warning: LogHttp: 00000494B0663C00: libcurl info message cache 6 (Closing connection)
+[2025.03.10-16.57.11:729][254]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B8BA77B78-41D7-0E81-0614-49ACA2E6CAB9%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.03.10-16.57.12:075][256]LogEOSSDK: Warning: LogHttp: 00000494B0661E00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=C31FF2FA4B0CB6A1D601CCB0AA4DE910, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.03.10-16.57.12:075][256]LogEOSSDK: Warning: LogHttp: 00000494B0661E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.03.10-16.57.12:075][256]LogEOSSDK: Warning: LogHttp: 00000494B0661E00: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.03.10-16.57.12:075][256]LogEOSSDK: Warning: LogHttp: 00000494B0661E00: libcurl info message cache 1 (Closing connection)
+[2025.03.10-16.57.12:075][257]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=C31FF2FA4B0CB6A1D601CCB0AA4DE910
+[2025.03.10-16.57.12:399][257]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.03.10-16.57.12:401][257]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{7bc6c2cd-2ce0-4cca-8ad3-406bb8cb36c7}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=364.75
+[2025.03.10-16.57.12:401][257]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.03.10-16.57.12:442][257]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.03.10-16.57.13:108][259]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=C31FF2FA4B0CB6A1D601CCB0AA4DE910
+[2025.03.10-16.57.13:443][260]LogEOSSDK: Warning: LogHttp: 00000494B0661E00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=C31FF2FA4B0CB6A1D601CCB0AA4DE910, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.03.10-16.57.13:444][260]LogEOSSDK: Warning: LogHttp: 00000494B0661E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.03.10-16.57.13:444][260]LogEOSSDK: Warning: LogHttp: 00000494B0661E00: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+[2025.03.10-16.57.13:444][260]LogEOSSDK: Warning: LogHttp: 00000494B0661E00: libcurl info message cache 3 (Closing connection)
+[2025.03.10-16.57.13:444][261]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=C31FF2FA4B0CB6A1D601CCB0AA4DE910
+[2025.03.10-16.57.14:450][263]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=C31FF2FA4B0CB6A1D601CCB0AA4DE910
+[2025.03.10-16.57.14:778][264]LogEOSSDK: Warning: LogHttp: 00000494B0661E00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=C31FF2FA4B0CB6A1D601CCB0AA4DE910, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.03.10-16.57.14:778][264]LogEOSSDK: Warning: LogHttp: 00000494B0661E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.03.10-16.57.14:778][264]LogEOSSDK: Warning: LogHttp: 00000494B0661E00: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.03.10-16.57.14:778][264]LogEOSSDK: Warning: LogHttp: 00000494B0661E00: libcurl info message cache 5 (Closing connection)
+[2025.03.10-16.57.14:778][265]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=C31FF2FA4B0CB6A1D601CCB0AA4DE910
+[2025.03.10-16.57.14:778][265]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[Metrics], OperationName=[SendBackendEvent], Url=[<Redacted>]
+[2025.03.10-16.57.15:766][267]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.03.10-16.57.18:145][272]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:54495'.
+[2025.03.10-16.57.18:250][272]LogUdpMessaging: Display: Added local interface '192.168.56.1' to multicast group '230.0.0.1:6666'
+[2025.03.10-16.57.18:250][272]LogUdpMessaging: Display: Added local interface '192.168.106.1' to multicast group '230.0.0.1:6666'
+[2025.03.10-16.57.18:250][272]LogUdpMessaging: Display: Added local interface '192.168.33.1' to multicast group '230.0.0.1:6666'
+[2025.03.10-16.57.18:250][272]LogUdpMessaging: Display: Added local interface '10.73.48.135' to multicast group '230.0.0.1:6666'
+[2025.03.10-16.57.43:440][348]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6529.469727
+[2025.03.10-16.57.44:440][351]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-16.57.44:440][351]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6530.135742, Update Interval: 325.150299
+[2025.03.10-17.02.04:760][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.03.10-17.02.10:556][132]LogSlate: Window 'Save Content' being destroyed
+[2025.03.10-17.02.10:572][132]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.10-17.02.10:679][132]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Textures/IMG] ([1] browsable assets)...
+[2025.03.10-17.02.10:679][132]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/IMG]
+[2025.03.10-17.02.10:679][132]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Textures/IMG" FILE="Z:/OneDriveBen/OneDrive/Documents/GitHub/HappyhabitatNEW/HappyHabitatNewfiles/Content/StarterContent/Textures/IMG.uasset" SILENT=true
+[2025.03.10-17.02.10:794][132]LogSavePackage: Moving output files for package: /Game/StarterContent/Textures/IMG
+[2025.03.10-17.02.10:794][132]LogSavePackage: Moving 'Z:/OneDriveBen/OneDrive/Documents/GitHub/HappyhabitatNEW/HappyHabitatNewfiles/Saved/IMGD5F7DCFF41957F3D4B2EE09281919009.tmp' to 'Z:/OneDriveBen/OneDrive/Documents/GitHub/HappyhabitatNEW/HappyHabitatNewfiles/Content/StarterContent/Textures/IMG.uasset'
+[2025.03.10-17.02.10:799][132]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Textures/IMG_Mat] ([1] browsable assets)...
+[2025.03.10-17.02.10:799][132]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/IMG_Mat]
+[2025.03.10-17.02.10:804][132]LogSavePackage: Moving output files for package: /Game/StarterContent/Textures/IMG_Mat
+[2025.03.10-17.02.10:804][132]LogSavePackage: Moving 'Z:/OneDriveBen/OneDrive/Documents/GitHub/HappyhabitatNEW/HappyHabitatNewfiles/Saved/IMG_Mat8470CA2D4E8FAC930DE74E941B5E6C33.tmp' to 'Z:/OneDriveBen/OneDrive/Documents/GitHub/HappyhabitatNEW/HappyHabitatNewfiles/Content/StarterContent/Textures/IMG_Mat.uasset'
+[2025.03.10-17.02.10:817][132]LogFileHelpers: InternalPromptForCheckoutAndSave took 244.591 ms (total: 815.891 ms)
+[2025.03.10-17.02.10:934][132]LogStall: Shutdown...
+[2025.03.10-17.02.10:934][132]LogStall: Shutdown complete.
+[2025.03.10-17.02.11:058][132]LogSlate: Window 'MyProject2 - Unreal Editor' being destroyed
+[2025.03.10-17.02.11:403][132]LogContentValidation: Display: Starting to validate 2 assets
+[2025.03.10-17.02.11:403][132]LogContentValidation: Enabled validators:
+[2025.03.10-17.02.11:403][132]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.10-17.02.11:403][132]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.10-17.02.11:404][132]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.10-17.02.11:404][132]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.10-17.02.11:404][132]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.10-17.02.11:404][132]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.10-17.02.11:404][132]AssetCheck: /Game/StarterContent/Textures/IMG Validating asset
+[2025.03.10-17.02.11:404][132]AssetCheck: /Game/StarterContent/Textures/IMG_Mat Validating asset
+[2025.03.10-17.02.11:409][132]Cmd: QUIT_EDITOR
+[2025.03.10-17.02.11:409][132]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.03.10-17.02.11:434][133]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.03.10-17.02.11:435][133]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.03.10-17.02.11:435][133]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.03.10-17.02.11:440][133]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-17.02.11:440][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-17.02.11:440][133]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2025.03.10-17.02.11:475][133]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.03.10-17.02.11:482][133]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.03.10-17.02.11:492][133]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-17.02.11:492][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-17.02.11:497][133]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-17.02.11:497][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-17.02.11:501][133]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-17.02.11:501][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-17.02.11:507][133]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-17.02.11:507][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-17.02.11:513][133]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-17.02.11:513][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-17.02.11:516][133]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-17.02.11:516][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-17.02.11:527][133]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.03.10-17.02.11:533][133]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.03.10-17.02.11:533][133]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.03.10-17.02.11:533][133]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.03.10-17.02.11:577][133]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.03.10-17.02.11:577][133]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.03.10-17.02.11:577][133]LogAudio: Display: Audio Device unregistered from world 'FirstPersonMap'.
+[2025.03.10-17.02.11:577][133]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.03.10-17.02.11:577][133]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.03.10-17.02.11:580][133]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.03.10-17.02.11:594][133]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.03.10-17.02.11:594][133]LogAudio: Display: Audio Device Manager Shutdown
+[2025.03.10-17.02.11:596][133]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.03.10-17.02.11:600][133]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.03.10-17.02.11:601][133]LogExit: Preparing to exit.
+[2025.03.10-17.02.11:683][133]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2025.03.10-17.02.11:693][133]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.10-17.02.11:693][133]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.10-17.02.11:695][133]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.10-17.02.11:696][133]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.10-17.02.11:696][133]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.10-17.02.11:696][133]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.10-17.02.11:696][133]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.10-17.02.11:696][133]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.10-17.02.11:696][133]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.10-17.02.11:696][133]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.10-17.02.11:696][133]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.10-17.02.11:696][133]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.10-17.02.11:696][133]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.10-17.02.11:696][133]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.10-17.02.11:696][133]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.10-17.02.11:696][133]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.10-17.02.11:696][133]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.10-17.02.11:696][133]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.10-17.02.11:696][133]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.10-17.02.11:696][133]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.10-17.02.11:696][133]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.10-17.02.12:619][133]LogEditorDataStorage: Deinitializing
+[2025.03.10-17.02.12:924][133]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.03.10-17.02.13:017][133]LogExit: Editor shut down
+[2025.03.10-17.02.13:029][133]LogExit: Transaction tracking system shut down
+[2025.03.10-17.02.13:868][133]LogExit: Object subsystem successfully closed.
+[2025.03.10-17.02.13:905][133]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.03.10-17.02.14:231][133]LogMemoryProfiler: Shutdown
+[2025.03.10-17.02.14:232][133]LogNetworkingProfiler: Shutdown
+[2025.03.10-17.02.14:232][133]LoadingProfiler: Shutdown
+[2025.03.10-17.02.14:232][133]LogTimingProfiler: Shutdown
+[2025.03.10-17.02.14:980][133]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.03.10-17.02.14:998][133]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.03.10-17.02.15:000][133]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B60088A9C-42DE-62E5-6AF6-A5BD4E6A1897%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.1-38445549%2B%2B%2BUE5%2BRelease-5.5&UserID=d026a85145403ea211862dbc6311f430%7Cdcb47d11d23a473a808bd74cf8271131%7C58762187-6c8b-4b6c-a826-997d5fcb71b2&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.03.10-17.02.15:569][133]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.03.10-17.02.15:569][133]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.03.10-17.02.15:569][133]LogNFORDenoise: NFORDenoise function shutting down
+[2025.03.10-17.02.15:599][133]RenderDocPlugin: plugin has been unloaded.
+[2025.03.10-17.02.15:618][133]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.03.10-17.02.15:619][133]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.03.10-17.02.15:619][133]LogPakFile: Destroying PakPlatformFile
+[2025.03.10-17.02.16:051][133]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.03.10-17.02.16:096][133]LogExit: Exiting.
+[2025.03.10-17.02.16:156][133]Log file closed, 03/10/25 13:02:16
